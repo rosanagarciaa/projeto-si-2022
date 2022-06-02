@@ -1,0 +1,28 @@
+C:\fatec\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.exe
+C:\fatec\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.deps.json
+C:\fatec\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.json
+C:\fatec\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.dev.json
+C:\fatec\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\fatec\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\fatec\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.AssemblyReference.cache
+C:\fatec\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\fatec\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfoInputs.cache
+C:\fatec\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfo.cs
+C:\fatec\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\fatec\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\fatec\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\fatec\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.genruntimeconfig.cache
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.exe
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.deps.json
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.json
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.dev.json
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfoInputs.cache
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfo.cs
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\Fatec - Rosana\ProjetoBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.genruntimeconfig.cache
